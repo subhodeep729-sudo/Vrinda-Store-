@@ -1,2 +1,4 @@
-# Vrinda-Store-
-I have devoloped this project in excel and creating muliple pivot table and dashboard to sumarize large datasets. This process including data processing, data cleaning and data visualization.
+# Vrinda-Store-Data Analysis (Interactive Dashboard Creation using MS Excel)
+## Project Objective
+The Vrinda Store want to create an annual sales report for 2022. So that, the owner of the vrinda store can understand their customers and grow more sales in 2023,2024 & 2025.
+
